@@ -4,7 +4,7 @@
 We have used the Google’s high-fidelity hand and finger tracking API, [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands.html), as feature extractor of hand skeletal features. Used images from a recently published dataset for hand gesture detection, [HAGRID](https://github.com/hukenovs/hagrid).
 Trained multiple Machine Learning models on the extracted data to recognize hand gestures.
 
-![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/landmark.png)
+![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/landmarks.png)
 
 ### Trained Models:
 
