@@ -1,8 +1,9 @@
 # Hand-Gesture-Recognition
 
 ## Final Project for CAP 5415: Computer vision
-We have used the Google’s high-fidelity hand and finger tracking API, [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands.html), as feature extractor of hand skeletal features. Used images from a recently published dataset for hand gesture detection, [HAGRID](https://github.com/hukenovs/hagrid).
-Trained multiple Machine Learning models on the extracted data to recognize hand gestures.
+We have used the Google’s high-fidelity hand and finger tracking API, [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands.html), as feature extractor of hand skeletal features. Images used in this project is collected from a recently published dataset for hand gesture detection, [HAGRID](https://github.com/hukenovs/hagrid).
+
+We have trained multiple Machine Learning models on the extracted features to recognize hand gestures.
 
 ![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/landmarks.png)
 
@@ -51,4 +52,4 @@ Hand landmarks - gesture labeled
 
 [Processed Data](https://drive.google.com/drive/folders/19wKKwwZXYvPMpVrduEme5ZUc3IRVXGiF?usp=share_link)
 
-Repost can be found here: [report.docx](https://docs.google.com/document/d/1wpoQmiob-CaOBQlJtX8fp1jDVErE-x6I/edit?usp=share_link&ouid=100550617693029965264&rtpof=true&sd=true)
+Report can be found here: [report.docx](https://docs.google.com/document/d/1wpoQmiob-CaOBQlJtX8fp1jDVErE-x6I/edit?usp=share_link&ouid=100550617693029965264&rtpof=true&sd=true)
