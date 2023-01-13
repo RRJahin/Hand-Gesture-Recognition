@@ -6,19 +6,19 @@ Trained multiple Machine Learning models on the extracted data to recognize hand
 
 Trained Models:
 
-![image](https://user-images.githubusercontent.com/18435101/212362480-492e7b6a-a983-4dd8-b1c5-a12cf211d7d7.png)
+![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/result%20table.png)
 
 ### DNN
 3 fully connected layers consisting of 256, 128, and 128 neurons followed by ReLU activation and dam optimizer. 
 Learning rate of 0.0005 for optimizing the model over categorical cross-entropy loss.
 
 
-![image]()
+![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/dnn.jpg)
 
 ### CNN
 2 convolutional layers followed by ReLU activations and 50% dropout. The output is then fed to 3 fully connected layers consisting of 128, 64 and 6 neurons, where the first two FC layers are followed by ReLU activation and the last one by softmax activation. 
 
-![image]()
+![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/cnn.jpg)
 
 
 ## Downloads
