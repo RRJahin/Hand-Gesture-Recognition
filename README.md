@@ -13,12 +13,12 @@ Trained Models:
 Learning rate of 0.0005 for optimizing the model over categorical cross-entropy loss.
 
 
-![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/dnn.jpg)
+![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/dnn.png)
 
 ### CNN
 2 convolutional layers followed by ReLU activations and 50% dropout. The output is then fed to 3 fully connected layers consisting of 128, 64 and 6 neurons, where the first two FC layers are followed by ReLU activation and the last one by softmax activation. 
 
-![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/cnn.jpg)
+![image](https://github.com/RRJahin/Hand-Gesture-Recognition/blob/main/figure/cnn.png)
 
 
 ## Downloads
